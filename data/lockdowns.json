@@ -1,1 +1,66 @@
-{"Austria":{"Start date":"2020-03-16","End date":"2020-04-13"},"Belgium":{"Start date":"2020-03-18","End date":"2020-05-04 "},"Croatia":{"Start date":"2020-03-18","End date":"2020-04-19"},"France":{"Start date":"2020-03-17","End date":"2020-05-11"},"Germany":{"Start date":"2020-03-23","End date":"2020-04-20"},"Greece":{"Start date":"2020-03-23","End date":"2020-05-04"},"Hungary":{"Start date":"2020-03-28","End date":"2020-04-10"},"Ireland":{"Start date":"2020-03-12","End date":"2020-05-18"},"Italy":{"Start date":"2020-03-09","End date":"2020-05-18"},"Lithuania":{"Start date":"2020-03-16","End date":"2020-04-27"},"Poland":{"Start date":"2020-03-13","End date":"2020-04-11"},"Portugal":{"Start date":"2020-03-19","End date":"2020-04-02"},"Romania":{"Start date":"2020-03-25","End date":"2020-05-12"},"Russia":{"Start date":"2020-03-28","End date":"2020-04-30"},"Spain":{"Start date":"2020-03-14","End date":"2020-05-09"},"United Kingdom":{"Start date":"2020-03-23","End date":null}}
+{
+  "Austria":{
+    "Start date":"2020-03-16",
+    "End date":"2020-04-13"
+  },
+  "Belgium":{
+    "Start date":"2020-03-18",
+    "End date":"2020-05-04"
+  },
+  "Croatia":{
+    "Start date":"2020-03-18",
+    "End date":"2020-04-19"
+  },
+  "France":{
+    "Start date":"2020-03-17",
+    "End date":"2020-05-11"
+  },
+  "Germany":{
+    "Start date":"2020-03-23",
+    "End date":"2020-04-20"
+  },
+  "Greece":{
+    "Start date":"2020-03-23",
+    "End date":"2020-05-04"
+  },
+  "Hungary":{
+    "Start date":"2020-03-28",
+    "End date":"2020-04-10"
+  },
+  "Ireland":{
+    "Start date":"2020-03-12",
+    "End date":"2020-05-18"
+  },
+  "Italy":{
+    "Start date":"2020-03-09",
+    "End date":"2020-05-18"
+  },
+  "Lithuania":{
+    "Start date":"2020-03-16",
+    "End date":"2020-04-27"
+  },
+  "Poland":{
+    "Start date":"2020-03-13",
+    "End date":"2020-04-11"
+  },
+  "Portugal":{
+    "Start date":"2020-03-19",
+    "End date":"2020-04-02"
+  },
+  "Romania":{
+    "Start date":"2020-03-25",
+    "End date":"2020-05-12"
+  },
+  "Russia":{
+    "Start date":"2020-03-28",
+    "End date":"2020-04-30"
+  },
+  "Spain":{
+    "Start date":"2020-03-14",
+    "End date":"2020-05-09"
+  },
+  "United Kingdom":{
+    "Start date":"2020-03-23",
+    "End date":null
+  }
+}
