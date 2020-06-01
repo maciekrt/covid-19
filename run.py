@@ -25,7 +25,7 @@ model_path = "Rainier.ipynb"
 def execute(path,kernel):
 	with open(f"{run_path}{path}") as f:
 		nb = nbformat.read(f, as_version=4)
-		ep = ExecutePreprocessor(timeout=1800, kernel_name=kernel)
+		ep = ExecutePreprocessor(timeout=3600, kernel_name=kernel)
 		try:
 			out = ep.preprocess(nb, {'metadata': {'path': run_path}})
 		except CellExecutionError:
