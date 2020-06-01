@@ -14,6 +14,9 @@ args = parser.parse_args()
 flagForce = args.force
 sentryUrl = args.sentry_url
 
+now = datetime.now()
+print ("Running on:", now.strftime("%Y-%m-%d %H:%M:%S"))
+
 # sentry init
 sentry_sdk.init(dsn=sentryUrl)
 
