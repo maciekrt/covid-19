@@ -63,9 +63,9 @@ try:
 	execute(model_path,'rainier')
 
 	# Pushing everything to git repository
-	commandConfig = """git config user.name "cronjob" && git config user.email hello@rteu.live"""
-	commandExecution = f"""git commit -a -m"Updating rt-rainier.csv on {now}" && git push"""
-	subprocess.run(commandConfig, shell=True, check=True)
+	#commandConfig = """git config user.name "cronjob" && git config user.email hello@rteu.live"""
+	commandExecution = f"""git commit --author="cronjob <hello@rteu.live>" -a -m"Updating rt-rainier.csv on {now}" && git push"""
+	#subprocess.run(commandConfig, shell=True, check=True)
 	subprocess.run(commandExecution, shell=True, check=True)
 except Exception as e:
 	sentry_sdk.capture_exception(e)
