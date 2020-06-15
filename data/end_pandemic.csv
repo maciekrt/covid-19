@@ -1,11 +1,13 @@
 country,endDate
 Croatia,2020-05-15
 Cyprus,2020-04-22
+<<<<<<< HEAD
 Estonia,2020-05-02
 Greece,2020-05-20
 Hungary,2020-06-06
+=======
+>>>>>>> 3291188205d1a288c706944ab2262fdd86dec96e
 Latvia,2020-05-05
-Lithuania,2020-05-28
 Luxembourg,2020-05-22
 Malta,2020-04-17
 Slovakia,2020-05-01
